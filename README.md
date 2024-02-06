@@ -18,9 +18,11 @@
 <h3><strong>3.</strong>Snapshots of Web application</h3>
 <div>
 <img src="snapshot1.png">
+<hr>
 <br>
 <br>
 <img src="snapshot2.png">
+<hr>
 <br>
 <br>
 </div>
