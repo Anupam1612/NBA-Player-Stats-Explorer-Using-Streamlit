@@ -17,10 +17,10 @@
 
 <h3><strong>3.</strong>Snapshots of Web application</h3>
 <div>
-<img src="Git_Project\NBA-Player-Stats-Explorer-Using-Streamlit\snapshot1.png">
+<img src="snapshot1.png">
 <br>
 <br>
-<img src="Git_Project\NBA-Player-Stats-Explorer-Using-Streamlit\snapshot2.png">
+<img src="snapshot2.png">
 <br>
 <br>
 </div>
