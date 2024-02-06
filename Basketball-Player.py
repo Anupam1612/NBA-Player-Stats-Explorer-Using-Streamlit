@@ -10,7 +10,7 @@ st.title("NBA Player stats Explorer")
 
 st.markdown(
     """
-    This app performs simple webs rapping of NBA player stats data!
+    This app performs simple webs scrapping of NBA player stats data!
     * **Python liberaries: ** base, pandas, streamlit
     * **Data source:** [Basketball-reference.com](https://www.basketball-reference.com/).
 """)
